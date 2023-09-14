@@ -1,6 +1,7 @@
-# Perbandingan Fungsi Keanggotaan Fuzzy pada Dataset
+Create by : Endina Putri Purwandari
+Date : 20230914
 
-![Fuzzy Logic](fuzzy_logic.jpg)
+# Perbandingan Fungsi Keanggotaan Fuzzy pada Dataset
 
 Proyek ini bertujuan untuk membandingkan tiga jenis fungsi keanggotaan fuzzy (triangular, sigmoid, dan gaussian) dalam konteks penilaian tugas mahasiswa, termasuk quiz, tugas individu, tugas kelompok, dan tugas diskusi. Perbandingan dilakukan pada tiga level: dasar, sedang, dan tinggi, dengan memperhitungkan akurasi, presisi, dan waktu eksekusi.
 
