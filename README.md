@@ -1,4 +1,5 @@
 Create by : Endina Putri Purwandari
+
 Date : 20230914
 
 # Perbandingan Fungsi Keanggotaan Fuzzy pada Dataset
